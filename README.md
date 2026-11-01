@@ -16,3 +16,4 @@ A fast, clean, and modern calorie and macro tracking web application built with 
 
 ## How to Run
 Simply open `index.html` in any web browser.
+
